@@ -13,12 +13,12 @@ The dashboard includes visualizations such as bar charts, line charts, and maps 
 
 ![1](https://user-images.githubusercontent.com/52502585/226858045-c37b8daf-6090-424a-b7ba-28672379625c.PNG)
 
-**Sales Growth Rates**: a visualization that shows sales growth rates over time.
+**Sales Growth Rates**: a visualization that shows sales growth rates over time.<br>
 **Sales by Time Period**:  a visualization that shows total sales for each year.
 ![2](https://user-images.githubusercontent.com/52502585/226858095-1d15589f-f837-47e3-bcac-b9a80232907e.PNG)
 
 
-**Stetes** from where it was ordered.
-A visual map representation for **contries and profit**.
-A visual map representation for **sales in each city**. It also has a **filter** to select a contry from which you want to see the profit in its cities.
+**Stetes** from where it was ordered.<br>
+A visual map representation for **contries and profit**.<br>
+A visual map representation for **sales in each city**. It also has a **filter** to select a contry from which you want to see the profit in its cities.<br>
 ![3](https://user-images.githubusercontent.com/52502585/226858089-d14ac0c6-8fc0-440b-b8f8-dc24aa7b825d.PNG)
