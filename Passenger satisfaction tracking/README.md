@@ -1,0 +1,1 @@
+Passenger satisfaction tracking: This project would involve gathering data on passenger satisfaction through surveys or feedback forms. The Power BI dashboard could provide insights into the areas where passengers are most satisfied or dissatisfied, and help airport managers make data-driven decisions to improve the passenger experience.
